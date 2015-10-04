@@ -39,7 +39,7 @@ router.get('/', function(req, res, next) {
         if (req.query.precio === '10-50' ){
             filtros.precio = {'$gte': '10', '$lte': '50' };
         }else if(req.query.precio === '10' ){
-            filtros.precio = {'$gte':10};
+            filtros.precio = {'$gte':'10'};
         }else if(req.query.precio === '-50' ){
             filtros.precio = {'$lte':'50'};
         }else if(req.query.precio === '50' ){

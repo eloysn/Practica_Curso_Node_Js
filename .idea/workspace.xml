@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81b7c0e-d84d-4065-8015-258e0fed6b46" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/apiv1/anuncios.js" afterPath="$PROJECT_DIR$/routes/apiv1/anuncios.js" />
     </list>
     <ignored path="Nodepop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/apiv1/login.js">
+      <file leaf-file-name="anuncios.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/apiv1/anuncios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.9009901">
+              <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -100,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39115646">
+            <state vertical-scroll-proportion="-12.777778">
               <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding />
             </state>
@@ -160,11 +160,11 @@
         <option value="$PROJECT_DIR$/routes/apiv1/login.js" />
         <option value="$PROJECT_DIR$/routes/apiv1/registro.js" />
         <option value="$PROJECT_DIR$/config_app.js" />
-        <option value="$PROJECT_DIR$/routes/apiv1/anuncios.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/traductor.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/routes/apiv1/anuncios.js" />
       </list>
     </option>
   </component>
@@ -702,14 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/apiv1/anuncios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/apiv1/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -781,8 +773,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39115646">
+        <state vertical-scroll-proportion="-12.777778">
           <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/apiv1/anuncios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9009901">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
           <folding />
         </state>
       </provider>
