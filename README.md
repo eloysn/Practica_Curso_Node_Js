@@ -21,4 +21,4 @@ tendremos que mandar el token que nos han pasado
 
 *El token puede ser enviado en el Body,en la query o en el header de la peticion
 
-*Los anuncios pueden ser filtrados por nombre,tags,precio,venta, se enviaran en la query string
+*Los anuncios pueden ser filtrados por nombre,tag,precio,venta, se enviaran en la query string
