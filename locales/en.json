@@ -1,0 +1,14 @@
+{
+	"ERROR_AUTHENTICATION_FAILED_USER_NOT_FOUND": "Authentication failed. User not found.",
+	"THE_TOKEN_IS_NOT_AUTHENTICATED": "The Token is not Authenticaded",
+	"THERE_IS_NOT_TOKEN": "There is not Token",
+	"THIS_USER_IS_REGISTRED": "This user is registered",
+	"ERROR_LOOKING_TO_YOU": "Error looking to you",
+	"AUTHENTICATION_FAILED_USER_NOT_FOUND": "Authentication failed. User not found",
+	"AUTHENTICATION_FAILED_WRONG_PASSWORD": "Authentication failed.Wrong password",
+	"TOKEN_SAVED": "Token saved",
+	"USER_AND_PASSWORD_INVALID": "User and password invalid",
+	"ITEM_NOT_FOUND": "Item not found",
+	"ITEM_FOUND": "Item found",
+	"THIS USER IS REGISTRED": "THIS USER IS REGISTRED"
+}

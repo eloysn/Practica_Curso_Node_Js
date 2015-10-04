@@ -1,0 +1,71 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "venta": true,
+      "precio": 2310.15,
+      "foto": "bici.jpg",
+      "tags": [
+        "lifestyle",
+        "deporte"
+      ]
+    },
+    {
+      "nombre": "Tablet",
+      "venta": true,
+      "precio": 200,
+      "foto": "tablet.jpg",
+      "tags": [
+        "tablet",
+        "informatica"
+      ]
+    },
+    {
+      "nombre": "Iphone",
+      "venta": false,
+      "precio": 800,
+      "foto": "iphone.jpg",
+      "tags": [
+        "telefonos",
+        "informatica"
+      ]
+    },{
+      "nombre": "Coche",
+      "venta": false,
+      "precio": 235000,
+      "foto": "coche.jpg",
+      "tags": [
+        "lifestyle",
+        "motor"
+      ]
+    },{
+      "nombre": "Barco",
+      "venta": false,
+      "precio": 2350000,
+      "foto": "barco.jpg",
+      "tags": [
+        "nautica",
+        "motor"
+      ]
+    },{
+      "nombre": "Jugetes",
+      "venta": true,
+      "precio": 20,
+      "foto": "jugetes.jpg",
+      "tags": [
+        "entretenimiento",
+        "niños"
+      ]
+    },{
+      "nombre": "Ipad",
+      "venta": false,
+      "precio": 200,
+      "foto": "ipad.jpg",
+      "tags": [
+        "lifestyle",
+        "informatica"
+      ]
+    }
+  ]
+
+}
