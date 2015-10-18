@@ -1,11 +1,14 @@
-# Practica_Curso_Node_Js
-API NODEPOP
 
-*Inicializar la DB Mongo
 
-*Cargar un script,con el comando "npm run installDB", que añadira anuncios a la DB
+#PracticaCursoNodeJs
 
-*Ejecutar el comando "npm run dev",para empezar a probar el API
+       API NODEPOP
+
+##Inicializar la DB Mongo
+
+###Cargar un script,con el comando "npm run installDB", que añadira anuncios a la DB
+
+  Ejecutar el comando "npm run dev",para empezar a probar el API
 
 *Para registrar un usuario ,hacer un POST a la ruta :
   localhost:3000/apiv1/registro

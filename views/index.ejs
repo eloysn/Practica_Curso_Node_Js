@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>  </title>
+    <title> <%= title %> </title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1> API NODEPOP </h1>
-    <p>*Inicializar la DB Mongo  </p>
-    <p>*Cargar un script,con el comando "npm run installDB", que añadira anuncios a la DB</p>
-   <p>*Ejecutar el comando "npm run dev",para empezar a probar el API</p>
-   <p>*Para registrar un usuario ,hacer un POST a la ruta localhost:3000/apiv1/registro.Se pedira nombre ,mail y pass</p>
-   <p>*Una vez registrados podemos acceder con un POST a la ruta localhost:3000/apiv1/login, para loguearnos, recibimos un Token que sera el que utilizemos para listar los anuncios </p>
-  <p>*Para acceder a la lista de anuncios podemos hacer un GET a al ruta localhost:3000/apiv1/anuncios, tendremos que mandar el token que nos han pasado </p>
-  <p>*El token puede ser enviado en el Body,en la query o en el header de la peticion</p>
-  <p>*Los anuncios pueden ser filtrados por nombre,tags,precio,venta, se enviaran en la query string</p>
+
+  <xmp theme="united" style="display:none;">
+      <%= readme %>
+  </xmp>
+
+
+
+  <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
   </body>
 </html>

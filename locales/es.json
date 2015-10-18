@@ -1,13 +1,14 @@
 {
-  "ERROR_AUTHENTICATION_FAILED_USER_NOT_FOUND": "Error de autenticación. Usuario no encontrado.",
-  "THE_TOKEN_IS_NOT_AUTHENTICATED":"El token no esta autenticado",
-  "THERE_IS_NOT_TOKEN":"No hay ningun Token",
-  "THIS_USER_IS_REGISTRED":"Este usuario esta registrado",
-  "ERROR_BUSCANDO_AL_USUARIO":"Erro buscando al usuario",
-  "AUTHENTICATION_FAILED_USER_NOT_FOUND":"Error de autenticación. Usuario no encontrado",
-  "AUTHENTICATION_FAILED_WRONG_PASSWORD":"Error de autenticación. Contraseña incorrecta",
-  "TOKEN_SAVED":"Token salvado",
-  "USER_AND_PASSWORD_INVALID":"Usuario y contraseña no valido",
-  "ITEM_NOT_FOUND":"Articulo no encontrado",
-  "ITEM_FOUND":"Articulo encontrado"
+	"ERROR_AUTHENTICATION_FAILED_USER_NOT_FOUND": "Error de autenticación. Usuario no encontrado.",
+	"THE_TOKEN_IS_NOT_AUTHENTICATED": "El token no esta autenticado",
+	"THERE_IS_NOT_TOKEN": "No hay ningun Token",
+	"THIS_USER_IS_REGISTRED": "Este usuario esta registrado",
+	"ERROR_BUSCANDO_AL_USUARIO": "Erro buscando al usuario",
+	"AUTHENTICATION_FAILED_USER_NOT_FOUND": "Error de autenticación. Usuario no encontrado",
+	"AUTHENTICATION_FAILED_WRONG_PASSWORD": "Error de autenticación. Contraseña incorrecta",
+	"TOKEN_SAVED": "Token salvado",
+	"USER_AND_PASSWORD_INVALID": "Usuario y contraseña no valido",
+	"ITEM_NOT_FOUND": "Articulo no encontrado",
+	"ITEM_FOUND": "Articulo encontrado",
+	"THIS USER IS REGISTRED": "THIS USER IS REGISTRED"
 }
