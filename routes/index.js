@@ -10,7 +10,7 @@ var fs = require('fs');
 /* GET home page. */
 router.get('/', function(req, res, next) {
 
-  fs.readFile(__dirname + '/../README.md', {encoding: 'utf8'}, (err, data)=> {
+  fs.readFile(__dirname + '/../README.md', {encoding: 'utf8'}, function(err, data) {
     if (err) {
       console.log(err);
       return next(new Error(`Can't read README.md file`));
